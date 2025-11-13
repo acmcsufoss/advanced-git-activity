@@ -12,14 +12,18 @@ tasks. This IS a competition with everyone else in the room!
 3. There's a commit called 'wip', which isn't a very helpful message. Squash
    this commit into the one that comes after it.
 
-If you finish all of these and you think you're the first to do so, have us
-check and we will verify your work!
+If you mess things up badly, use the **reflog** to recover!  
+
+If you get lost, check out the slides!  
+
+**If you finish all of these and you think you're the first to do so, have us
+check and we will verify your work!**
 
 > The original README is preserved below, but it's not important. You do not
 > need to run the program for this workshop.
 
 ---
-# REPO'S ORIGINAL README BELOW
+### REPO'S ORIGINAL README BELOW (not important)
 simple C++ implementation of the doomsday algorithm.
 
 Building:
